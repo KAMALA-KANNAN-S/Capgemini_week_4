@@ -1,4 +1,4 @@
-# Author: mrlove
+# Author: kamalakannan
 
 Feature: Post Scenario Outline on Ninza project
 
